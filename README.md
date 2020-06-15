@@ -100,6 +100,6 @@ This project will output four files:
 
 ## References
 
-    Random Forest Feature Importance: https://towardsdatascience.com/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e
-    Random Forest Parameter Tuning:   https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
-    Random Forest ROC Curve Plotting: https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/
+    Explaining Feature Importance by example of a Random Forest: https://towardsdatascience.com/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e
+    Hyperparameter Tuning the Random Forest in Python: https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+    How to Use ROC Curves and Precision-Recall Curves for Classification in Python: https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/
